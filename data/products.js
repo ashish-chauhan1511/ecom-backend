@@ -5,7 +5,7 @@ id:1,
 name:"Glovs",
 price:200,
 tabs:"Gym",
-image:"https://ecom-backend-g35h.onrendgiter.com/images/glovs.png",
+image:"https://ecom-backend-g35h.onrender.com/images/glovs.png",
 discounts:23,
 },
 {
